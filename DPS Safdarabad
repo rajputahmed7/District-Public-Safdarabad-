@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>District Public School - Safdarabad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f9ff;
+        }
+        header {
+            background-color: #003366;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .hero {
+            text-align: center;
+            padding: 30px;
+        }
+        .hero img {
+            width: 80%;
+            max-width: 600px;
+            border-radius: 10px;
+            margin: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .message {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #333;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #003366;
+            color: white;
+            position: relative;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body><header>
+    <h1>District Public School</h1>
+    <h2>Tehsil Safdarabad, District Sheikhupura</h2>
+</header><section class="hero">
+    <img src="/mnt/data/file-HCix1Xtg5fkywxMmYgFA5M" alt="School Building">
+    <img src="/mnt/data/file-AuMm17W2BND3rm5hCP6Rah" alt="School Garden">
+</section><section class="message">
+    <h2>Welcome Message</h2>
+    <p>
+        Welcome to District Public School, Tehsil Safdarabad – a place where education meets excellence and values shape futures.
+        Our mission is to nurture a safe, inclusive, and vibrant environment where every child is inspired to achieve academic and personal success.
+        With qualified staff, a strong moral foundation, and modern learning spaces, we are committed to helping students grow intellectually,
+        socially, and emotionally.
+    </p>
+</section><footer>
+    &copy; 2025 District Public School, Safdarabad. All rights reserved.
+</footer></body>
+</html>
